@@ -1,0 +1,6 @@
+[package]
+name = "pingpong"
+version = "0.1.0"
+authors = ["Hidemoto Nakada <hide-nakada@aist.go.jp>"]
+
+[dependencies]
